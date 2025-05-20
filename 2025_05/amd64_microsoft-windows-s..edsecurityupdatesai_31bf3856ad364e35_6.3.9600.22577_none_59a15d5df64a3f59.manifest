@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-Windows-SLC-Component-ExtendedSecurityUpdatesAI" version="6.3.9600.22577" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+  <ExtendedSecurityUpdatesAI xmlns="urn:schemas-microsoft-com:asm.v3" ActiveLicenses="Server-ESU-Year2;" ExtendedSecurityUpdates="0x02;" SKUs="0x07;0x08;0x0C;0x0D;0x24;0x25;0x27;0x28;" arguments="/B E3E2690B-931C-4C80-B1FF-DFFBA8A81988:199992000-199993999; " />
+  <ExtendedSecurityUpdatesAI xmlns="urn:schemas-microsoft-com:asm.v3" ActiveLicenses="Server-ESU-Year3;" ExtendedSecurityUpdates="0x02;" SKUs="0x07;0x08;0x0C;0x0D;0x24;0x25;0x27;0x28;" arguments=" " />
+  <ExtendedSecurityUpdatesAI xmlns="urn:schemas-microsoft-com:asm.v3" ActiveLicenses="Server-FES-ESU-Year2;" ExtendedSecurityUpdates="0x02;" SKUs="0x07;0x08;" arguments=" " />
+  <ExtendedSecurityUpdatesAI xmlns="urn:schemas-microsoft-com:asm.v3" ActiveLicenses="Server-FES-ESU-Year3;" ExtendedSecurityUpdates="0x02;" SKUs="0x07;0x08;" arguments=" " />
+  <ExtendedSecurityUpdatesAI xmlns="urn:schemas-microsoft-com:asm.v3" ActiveLicenses="Server-FES-ESU-Year2;" ExtendedSecurityUpdates="0x22;" SKUs="0x07;0x08;" arguments=" " />
+  <ExtendedSecurityUpdatesAI xmlns="urn:schemas-microsoft-com:asm.v3" ActiveLicenses="Server-FES-ESU-Year3;" ExtendedSecurityUpdates="0x22;" SKUs="0x07;0x08;" arguments=" " />
+  <ExtendedSecurityUpdatesAI xmlns="urn:schemas-microsoft-com:asm.v3" ActiveLicenses=";" ExtendedSecurityUpdates="0x31;" SKUs="0x07;0x08;0x0C;0x0D;0x24;0x25;0x27;0x28;" arguments=" " />
+</assembly>
